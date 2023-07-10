@@ -1,5 +1,5 @@
 # JS
-JavaScript Tutorials, This Is in progress
+JavaScript tutorials, this is unfinished
 
 <details>
 <summary>Variables</summary>
